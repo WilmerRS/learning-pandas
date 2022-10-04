@@ -5,6 +5,6 @@ Pandas exercises used to practice the uses of the python library.
 ## 🐙 To get started
 
 1. Clone this repository: `git clone https://github.com/WilmerRS/learning-pandas`.
-2. Create a virtual environment: `python -m venv`.
-3. Enter the virtual environment: `python -m venv`.
+2. Create a virtual environment: `python -m venv ./venv`.
+3. Enter the virtual environment: `source /venv/bin/activate`.
 4. Install dependencies: `pip install -r requirements.txt`.
